@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>We were in Germany</td>
     <td>Date</td>
-    <td>19/02/2018</td>
+    <td>12/02/2018</td>
   </tr>
 </table>
 
