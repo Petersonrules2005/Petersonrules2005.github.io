@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>Section 1.2 of FUZE</td>
     <td>Date</td>
-    <td>01/01/01</td>
+    <td>05/02/2018</td>
   </tr>
 </table>
 
