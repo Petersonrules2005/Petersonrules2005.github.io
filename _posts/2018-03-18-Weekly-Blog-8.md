@@ -1,5 +1,5 @@
 ---
-title: Weekly Blog 8
+title: Weekly Blog 1 of Summer Term
 layout: post
 author: peter.steward
 permalink: /weekly-blog-8/
@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>More Section 1.5 of FUZE</td>
+    <td>First Lesson on Learning Python</td>
     <td>Date</td>
-    <td>11/03/2018</td>
+    <td>25?04?18</td>
   </tr>
 </table>
 
@@ -19,16 +19,16 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>Halfway through Section 1.5 of FUZE </td>
+    <td>Nowhere</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>Finish Section 1.5 of FUZE</td>
+    <td>Learn what we'd be doing for the rest of the term and learn a bit about Python</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>Yes</td>
+    <td>Yes </td>
   </tr>
 </table>
 
@@ -41,19 +41,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>DISCLAIMER: Again technically, Section 1.5 of FUZE doesn't exist. It is really called Section 1 Project Roundup but, again,  that was to long and boring a title so I just called it section 1.5. That’s still a rubbish title but at least it’s consistent with my other previous titles. I learnt this week by using the changes I said I would make last week. We discussed where we hoped to be at the end of the lesson, at the start of the lesson, not the beginning. We only swapped places at logical points and that helped the lesson flow work better.</td>
+    <td>I learned by applying the two things we were told by Mr Keen to guide us; that all we need is Syntax and Logic. He then explained what Syntax was. Syntax is basically the words that make up any language. Logic is just logic. That helped me learned because it gave me all the information I needed to understand the instructions i was being given to complete the tasks I was being asked to do for this terms coursework.  </td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>The main limit to my learning this lesson was the lack of a teacher. Mr Ampah-Korsah was off this lesson so we were watched over by a teacher from another class and they didn’t really know what they were doing. My learning was also limited this lesson by lack of time and communication errors. The lack of time came from the fact that our lesson started late due to the aforementioned lack of a teacher. The communication errors came from the retainer I was wearing. Essentially, I was unintentionally spitting a lot and what I was saying was slurred, and when I was listening, not talking, my partner was distracted and was saying things he didn’t mean by accident. </td>
+    <td>My learning wasn't really limited this lesson because I approached the work with a completely blank mind in regards to what I was going to do. I had no idea what to expect going into the lesson and therefore I had no knowledge previously as to what to do so I could learn from, and follow the instructions without deviating or trying to be too smart which is what I do in every other subject. I currently do not have any habits to be worked on but I am sure some will develop as I become more confident using Python.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>By the next lesson many of the problems of this lesson with have solved themselves without any input or effort from me. Mr Ampah-Korsah will be in the next lesson which means we will have the full 1 hour of lesson time and a teacher to help us out when we need it. Also my talking will have improved by the next lesson because I will have had practice speaking will it in which will make me easier to understand. </td>
+    <td>Next time I will change my approach towards tasks slightly. From doing the homework I discovered that my memory for how to do things in Python is awful so I will have to start each lesson by spending about 5 minutes or so recapping on what I learned last lesson. This will improve my learning because every week I recap something I learn about Python the more likely I am to remember it and therefore the more likely I am to use it well.</td>
   </tr>
 </table>
 
