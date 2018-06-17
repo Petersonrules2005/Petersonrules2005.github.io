@@ -1,5 +1,5 @@
 ---
-title: Weekly Blog 3
+title: Weekly-Blog 3
 layout: post
 author: peter.steward
 permalink: /weekly-blog-3/
